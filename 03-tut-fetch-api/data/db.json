@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Pizza"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "산해진미가 들어간 불고기"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "궁중요리"
+    }
+  ]
+}
